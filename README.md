@@ -15,17 +15,11 @@ I'm a software developer with a strong passion for creating visually appealing a
 <p>
 <a href="https://x.com/HAMZAMA95413962"><img
     src="https://img.shields.io/badge/-Twitter?style=flat&logo=Twitter&logoColor=%231DA1F2&label=Twitter&labelColor=%231DA1F2&color=%231DA1F2" alt="Facebook"></a>
-
-  
 <a href="https://www.linkedin.com/in/hamza-mahmoud-10a395327/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-
-    
 <a href="aboaihamdhamzamahmoud123@gmail.com"><img
     src="https://img.shields.io/badge/-Gemal?style=flat&logo=logo%20Gemal&logoColor=%23EA4335&label=Gemal&labelColor=%23EA4335&color=%23EA4335" alt="Facebook"></a>
-    
-
-</p>
+    </p>
 
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
