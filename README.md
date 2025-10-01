@@ -30,6 +30,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git?style=flat&logo=git&label=Git%20&labelColor=%23000000&color=%23000000)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,wordpress)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamahmoudaboalhamd&layout=compact)
