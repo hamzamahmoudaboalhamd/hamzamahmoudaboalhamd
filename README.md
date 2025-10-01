@@ -25,7 +25,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![BootStrap](https://img.shields.io/badge/-BootStrap?style=flat&logo=BootStrap&label=BootStrap&labelColor=%23000000&color=%23000000)
-![Tailwind css](https://img.shields.io/badge/-BootStrap?style=flat&logo=BootStrap&label=BootStrap&labelColor=%23000000&color=%23000000)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git?style=flat&logo=git&label=Git%20&labelColor=%23000000&color=%23000000)
